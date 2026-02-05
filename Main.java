@@ -1,5 +1,3 @@
-package Grade_11_project;
-
 import java.util.*;  
 import javax.swing.*;  
 import java.awt.*;  
