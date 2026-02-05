@@ -8,7 +8,7 @@ import java.awt.event.*;
 public class Main
 {  
     public String input, output;  
-    public AkshatJain_11gr_Project()  //Constructor to initialise data members
+    public Main()  //Constructor to initialise data members
     {  
         input = "";  
         output = "";  
@@ -592,7 +592,7 @@ public class Main
 
     public static void main (String [] args)  
     {  
-        Mainobject = new AkshatJain_11gr_Project();  
+        Main object = new Main();  
         object.welcomeFrame(); 
     }  
 
