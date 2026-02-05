@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;  
 import java.awt.event.*;
 
-public class AkshatJain_11gr_Project 
+public class Main
 {  
     public String input, output;  
     public AkshatJain_11gr_Project()  //Constructor to initialise data members
@@ -592,7 +592,7 @@ public class AkshatJain_11gr_Project
 
     public static void main (String [] args)  
     {  
-        AkshatJain_11gr_Project object = new AkshatJain_11gr_Project();  
+        Mainobject = new AkshatJain_11gr_Project();  
         object.welcomeFrame(); 
     }  
 
